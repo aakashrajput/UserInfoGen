@@ -1,7 +1,7 @@
 <?php
 $db['db_host'] = 'localhost';
-$db['db_user'] = 'root';
-$db['db_pass'] = '';
+$db['db_user'] = 'aakash';
+$db['db_pass'] = 'root';
 $db['db_name'] = 'userinfogen';
 
 foreach($db as $key => $value){
